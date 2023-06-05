@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/%7Bhttps://github.com/yuvrajghule/Lensmart.git%7D/static/css/main.d95b4a43.css",
+    "main.js": "/%7Bhttps://github.com/yuvrajghule/Lensmart.git%7D/static/js/main.0739e932.js",
+    "static/js/787.a3a5485f.chunk.js": "/%7Bhttps://github.com/yuvrajghule/Lensmart.git%7D/static/js/787.a3a5485f.chunk.js",
+    "index.html": "/%7Bhttps://github.com/yuvrajghule/Lensmart.git%7D/index.html",
+    "main.d95b4a43.css.map": "/%7Bhttps://github.com/yuvrajghule/Lensmart.git%7D/static/css/main.d95b4a43.css.map",
+    "main.0739e932.js.map": "/%7Bhttps://github.com/yuvrajghule/Lensmart.git%7D/static/js/main.0739e932.js.map",
+    "787.a3a5485f.chunk.js.map": "/%7Bhttps://github.com/yuvrajghule/Lensmart.git%7D/static/js/787.a3a5485f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d95b4a43.css",
+    "static/js/main.0739e932.js"
+  ]
+}
